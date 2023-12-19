@@ -26,7 +26,7 @@ console.log('Пример 4: 6 / 3 = 2' + ' Ваш ответ : ' + calc);
 var calc = prompt('Решите пример 40 % 20=');
 console.log('Пример 5: 40 % 20 = 8' + ' Ваш ответ : ' + calc);
 
-var cons = alert('Откройте консоль для просмотра');
+alert('Откройте консоль для просмотра');
 
 
 // среднее арифметическое
@@ -40,7 +40,7 @@ console.log('Ваше второе число : ' + sec);
 var third = +prompt('Введите третье число' );
 console.log('Ваше третье число : ' + third);
 
-+alert((first + sec + third ) / 3) ;
+alert((first + sec + third ) / 3) ;
 
 
 
