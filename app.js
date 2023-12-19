@@ -40,7 +40,7 @@ console.log('Ваше второе число : ' + sec);
 var third = +prompt('Введите третье число' );
 console.log('Ваше третье число : ' + third);
 
-var res = +alert((first + sec + third ) / 3) ;
++alert((first + sec + third ) / 3) ;
 
 
 
